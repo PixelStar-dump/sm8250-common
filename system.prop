@@ -56,6 +56,14 @@ ro.config.low_ram=false
 # LTE CA
 persist.sys.radio.force_lte_ca=true
 
+# Log
+persist.log.tag.ACDB-LOADER=S
+persist.log.tag.CamX=S
+persist.log.tag.CHIUSECASE=S
+persist.log.tag.CVP=S
+persist.log.tag.ResourcesCompat=S
+persist.log.tag.SYNX-UMD=S
+
 # Media
 media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 
