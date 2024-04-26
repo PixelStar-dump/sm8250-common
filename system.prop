@@ -49,6 +49,9 @@ ro.lmk.kill_timeout_ms=15
 # LMK
 ro.config.low_ram=false
 
+# LTE CA
+persist.sys.radio.force_lte_ca=true
+
 # Media
 media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 
